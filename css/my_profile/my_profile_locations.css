@@ -1,0 +1,10 @@
+#locations-main-div {
+	/* background-color: green; */
+	width: 27%;
+	margin: 0 auto;
+	font-size: 1.4em;
+	font-family: 'Playfair Display', serif;
+}
+#locations-main-div a:hover {
+	color: inherit;
+}

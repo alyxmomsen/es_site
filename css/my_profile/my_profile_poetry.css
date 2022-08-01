@@ -1,0 +1,50 @@
+#poetry-main-container {
+	width: 38%;
+	margin: 0 auto;
+}
+
+#poetry-main-container .poetry-item {
+
+}
+
+#poetry-main-container .poetry-autor {
+	font-weight: bold;
+	font-size: 1.2em;
+	text-align: center;
+	/* font-family: 'Oswald', sans-serif; */
+	font-family: 'Playfair Display', serif;
+}
+
+#poetry-main-container .poetry-title {
+	font-size: 32px;
+	text-align: center;
+	/* font-family: 'Oswald', sans-serif; */
+	/* font-family: 'Oswald', sans-serif; */
+	font-family: 'Playfair Display', serif;
+}
+
+#poetry-main-container .poetry-box {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	width: 54%;
+	margin: 0 auto;
+	font-size: 1.2em;
+}
+
+#poetry-main-container .poetry-string {
+	font-family: 'Playfair Display', serif;
+}
+
+#poetry-main-container .poetry-year {
+	text-align: right;
+	margin: 16px auto 0 auto;
+	width: 60%;
+	color: #aaa;
+	font-style: italic;
+	font-size: .9em;
+	/* font-family: 'Oswald', sans-serif; */
+	font-family: 'Playfair Display', serif;
+}
+
+/* #poetry-main-container  */

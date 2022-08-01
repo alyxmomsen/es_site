@@ -1,0 +1,320 @@
+div.superMain > span.number-of-img.description {
+    /* text-transform: uppercase; */
+    font-size: 1.2em;
+    color: #666;
+}
+
+div.superMain > span.number-of-img.value {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #444;
+}
+
+div#landingMain {
+    background-color: whitesmoke;
+    width:100%;
+    margin: 0 auto;
+    /*position:relative;*/
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: stretch;
+    align-items: start;
+}
+
+div#landingMain > div.all_tag_container {
+    /*border: 1px solid red;*/
+    flex: 1;
+    padding: 9px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: end;
+    /*justify-items: start;*/
+}
+
+div#landingMain > div.all_tag_container > a {
+    color: grey;
+    border:1px solid #ddd;
+    padding:6px;
+    /*display: inline-block;*/
+    /*box-sizing: border-box;*/
+}
+
+div#landingMain > div.all_tag_container > a:hover {
+    color:whitesmoke;
+    background-color: grey;
+    /*transform: scale(1.1);*/
+}
+
+div#landingMain > div.container.flex_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+    flex: 6;
+    gap: 9px;
+}
+
+div#landingMain > div.container.flex_container > div.flex_item  {
+    /*width: 30%;*/
+    /*border: 1px solid black;*/
+    position: relative;
+    flex-basis: 22%;
+    flex-shrink: 1;
+    flex-grow: 1;
+    /*flex-shrink: 2;*/
+    transition: all .4s ease-out;
+    height: 400px;
+    max-width: 40%;
+    border-color: #bbb;
+}
+
+div#landingMain > div.container.flex_container > div.flex_item:hover {
+    flex-basis: 28%;
+    cursor: pointer;
+    /*margin:0 9px;*/
+    /* border-left:4px solid #bbb; */
+    /* border-right:4px solid #bbb; */
+}
+
+div#landingMain > div.container.flex_container > div.flex_item > img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    /*object-position:;*/
+}
+
+div#landingMain > div.container.flex_container > div.flex_item > p.comment {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    background-color: #66666699;
+    padding: 6px 0;
+    color: whitesmoke;
+    display: none;
+}
+
+div#landingMain > div.container.flex_container > div.flex_item > p.tags > a.tag {
+    padding: 2px;
+    transition: all 0s;
+}
+
+div#landingMain > div.container.flex_container > div.flex_item > p.tags > a.tag:hover {
+    color: inherit;
+    text-decoration: underline;
+}
+
+div#landingMain > div.container.flex_container > div.flex_item > p.tags {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    background-color: #66666699;
+    padding: 6px 0;
+    color: whitesmoke;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div#landingMain > div#normal_size_photo_loader {
+    width:100%;
+    background-color: #66666699;
+    position: fixed;
+    top:0;
+    left: 0;
+    bottom: 0;
+    /* border: 4px solid palegreen; */
+    display: none;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    overflow: auto;
+    padding: 19px;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    align-items: flex-start;
+    position: relative;
+    width:66%;
+    height: auto;
+    /* overflow: auto; */
+    /* border:4px solid red; */
+    padding: 19px;
+    background-color: #fff;
+    /* margin: 19px 0; */
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.right-site-flex-container.right-flex-item {
+    padding: 0 9px;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.right-site-flex-container.right-flex-item > h3.egors-comment {
+    /* border: 1px solid red; */
+    padding: 9px 0;
+    margin: 0;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.right-site-flex-container.right-flex-item > div.hsh-tgs {
+    color: grey;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.right-site-flex-container.right-flex-item > div.hsh-tgs > a.base {
+    color: orange;
+    background-color: green;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.right-site-flex-container.right-flex-item > div.hsh-tgs > a:hover {
+    text-decoration: underline;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > img {
+    width: 61%;
+    max-height: 100%;   
+    object-fit: contain;
+    flex-basis: 61%;
+    /* flex-grow: 1; */
+    flex-shrink: 0;
+    animation: opa 1s;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.nav-arrow {
+    position: absolute;
+    cursor: pointer;
+    /* border: 1px solid red; */
+    top: 169px;
+    width: 66px;
+    height: 66px;
+    border-radius: 100%;
+    background-color: orange;
+    transition: all .2s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+    opacity: .4;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.nav-arrow:hover {
+    background-color: orange;
+    opacity: 1;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.nav-arrow.left {
+    left: -33px;
+    background-image: url("../data/common_img/left-arrow.png");
+    background-position: center center;
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.nav-arrow.right {
+    right: -33px;
+    background-image: url("../data/common_img/right-arrow.png");
+    background-position: center center;
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.close-button {
+    position: absolute;
+    top: 9px;
+    right: 9px;
+    border: 1px solid grey;
+    /* border-radius: 100%; */
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width:19px;
+    height:19px;
+    transition: all .1s ease-in-out;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.close-button:hover {
+    background-color: orange;
+    border: 1px solid orange;
+}
+
+@keyframes opa {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.arrow {
+    position: absolute;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    top: 45%;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.arrow:after {
+    display: block;
+    content: "";
+    width:22px;
+    height:4px;
+    position: absolute;
+    background-color: black;
+    top:36%;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.arrow:before {
+    display: block;
+    content: "";
+    width: 22px;
+    height: 4px;
+    position: absolute;
+    background-color: #404248;
+    bottom:36%
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.arrow.left {
+    left: 19px;
+    background-color: darkolivegreen;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.arrow.left:after {
+    transform: rotate(-45deg);
+    left:36%;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.arrow.left:before {
+    transform: rotate(45deg);
+    left:36%
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.arrow.right {
+    right:19px;
+    background-color: darkcyan;
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.arrow.right:after {
+    transform: rotate(45deg);
+    right:36%
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > div.arrow.right:before {
+    transform: rotate(-45deg);
+    right:36%
+}
+
+div#landingMain > div#normal_size_photo_loader > div.container.flex-container > img {
+    flex: 1;
+    width: 100%;
+    height:100%;
+    max-width: 777px;
+    object-fit: contain;
+    cursor: pointer;
+} */

@@ -1,0 +1,13 @@
+#forKids-main-div {
+	/* background-color: green; */
+	width: 60%;
+	margin: 0 auto;
+	font-size: 19px;
+	font-family: 'Playfair Display', serif;
+}
+
+#forKids-main-div a {
+	color: #00b2eb;
+	color: black;
+	font-size: .9em;
+}

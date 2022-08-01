@@ -1,0 +1,43 @@
+div.main_document_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    align-items: start;
+    font-family: "Old Standard TT";
+    /*background-image: url("../data/textures/paper_texture.jpg");*/
+    column-gap: 6px;
+}
+
+div.document_preview_area {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: stretch;
+    /*width: 20%;*/
+    row-gap: 6px;
+    flex: 2;
+}
+
+a.doc_header {
+    display: block;
+    cursor: pointer;
+    padding: 6px;
+    border: 1px solid grey;
+    color: #666;
+}
+
+a.doc_header:hover {
+    background-color: #666666;
+    color: white;
+}
+
+div.document_viewer {
+    border:1px solid grey;
+    flex: 6;
+    padding:9px;
+    text-align: justify;
+    background-image: url("../data/textures/paper_texture.jpg");
+}
+
+
+/*div.document_viewer*/

@@ -1,0 +1,158 @@
+<!---->
+<!doctype html>
+<html lang="ru-RU">
+        <head>
+    <meta charset="utf8">
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">-->
+    <script src="jquery/jquery-3.5.1.min.js"></script>
+    <link rel="stylesheet" href="css/mainCss_v37.css">
+    <link rel="stylesheet" href="css/menu_v5.css">
+    <link rel="stylesheet" href="css/about_v2.css">
+    <link rel="stylesheet" href="css/links_page_v2.css">
+    <link rel="stylesheet" href="css/materials_page_styles_v3.css">
+    <link rel="stylesheet" href="css/blog_v3.css">
+    <link rel="stylesheet" href="css/loader_v3.css">
+    <link rel="stylesheet" href="css/main_modal_window_v4.css">
+    <link rel="stylesheet" href="css/blog_area_v1.css">
+    <!-- <link rel="stylesheet" href="css/landing_v1.css"> -->
+    <link rel="stylesheet" href="css/landing_1_2.css">
+    <link rel="stylesheet" href="css/around_me_sub_menu_v4.css">
+    <link rel="stylesheet" href="css/video_9.css">
+    <link rel="stylesheet" href="css/demo_page_v4.css">
+    <link rel="stylesheet" href="css/land_around_v1.css">
+    <link rel="stylesheet" href="css/docs_v2.css">
+    <link rel="stylesheet" href="css/themes.css">   
+    <title>egor sukhachev page</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/test_page_1.css">
+</head><body>
+    <div class="superMain">
+        <div id="mainheader" class="header">
+    <div class="logoContainer"></div>
+    <div class="description">
+        <p class="description ru">Сломаем систему,<br>накажем виновных,<br>установим демократию.</p>
+    </div>
+    <div class="quote">
+        <p class='quote ru'><em>"Пока гром не грянет, <br>дурак не перекрестится"</em></p><p class='quote count'><em>2/3</em></p>    </div>
+</div>
+<ul class="subheaderMenu">
+    <li class="menuItem item1">
+        е
+    </li>
+    <li class="menuItem item2">
+        г
+    </li>
+    <li class="menuItem item3">
+        о
+    </li>
+    <li class="menuItem item4">
+        р
+    </li>
+    <li class="menuItem centralItem">
+        <div class="menuButton">
+            <div class="button_line tl"></div>
+            <div class="button_line ml"></div>
+            <div class="button_line bl"></div>
+        </div>
+    </li>
+    <li class="menuItem item5">c</li>
+    <li class="menuItem item6">
+        у</li>
+    <li class="menuItem item7">
+        х
+    </li>
+    <li class="menuItem item8">
+        а
+    </li>
+    <li class="menuItem item9">
+        ч
+    </li>
+    <li class="menuItem item10">
+        е
+    </li>
+    <li class="menuItem item11">
+        в
+    </li>
+</ul>        <div class="mainMenu">
+    <div class="menuitem"><a class="flex_container" href="index.php"><span class="rus">главная</span></a></div>
+    <div class="menuitem"><a class="flex_container about-button" href="themes.php?theme_name=about"><span class="rus">обо мне</span></a></div>
+    <div class="menuitem"><a class="flex_container" href=themes.php?theme_name=around><span class="rus">мир вокруг меня</span></a></div>
+</div>        <h2 id="the_blog" class="title_of_the_blog">новости</h2>
+        <div id="blog" class="blog">
+            <div class="blogItem post_1">
+                <span class="dateOfPost g_date">8.10.2020</span>
+                <div class="g_tegContainer">
+                    <div class="separator"></div>
+                    <a class="tag" href="#">#эпизод</a>
+                    <div class="separator"> </div>
+                    <a class="tag" href="#">#смоимучастием</a>
+                    <div class="separator"> </div>
+                    <a class="tag" href="#">#прочее</a>
+                </div>
+                <h1 class="g_main_title">Задержание у посольства Беларусии в Москве</h1>
+                <img class="g_main_image_of_post" src="data/fotoForBlog/акция%20протеста%20051020/posolstvo.jpg" alt="">
+                <div class="prview g_preview">
+                    5.10.2020. около 21ч.00 мин.  у посольства республики Беларусь я был задержан подьехавшим экипажем полиции. Я трижды, после устных замечаний сотрудников полиции, находящихся перед посольством, отказался выключать музыку, воспроизводимую переносной аудиоколонкой.
+                    По точно такой-же причине меня задержали 2-мя неделями ранее там-же. Тогда после 45- минутного  досмотра моих личных вещей у автозака и устных предупреждений прекратить включать музыку, я вновь вернулся на прежнее место и включил, понравившуюся мне композицию. Тогда меня повторно задержали и усадили в автозак. А через 20мин. на легковой служебной а/м доставили в ОВД "Басманный". Через час меня отпустили с квитанцией на оплату штрафа 500руб.
+                    В этот раз точно таким-же способом меня доставили, а через 30 мин. отпустили из ОВД "Басманный". С точно такой-же квитанцией.
+                </div>
+                <img class="g_img_tag add foto_1" src="data/fotoForBlog/акция%20протеста%20051020/foto_of_the_check.jpeg" alt="">
+                <video class="g_video_tag item_1" src="data/fotoForBlog/акция%20протеста%20051020/20201005_212649.mp4" poster="poster.jpg" controls lo></video>
+                <video class="g_video_tag item_2" src="data/fotoForBlog/акция%20протеста%20051020/20201005_211913.mp4" poster="poster.jpg" controls></video>
+                <div class="container_for_foto_2"><img class="g_img_tag add foto_2" src="data/fotoForBlog/акция%20протеста%20051020/WhatsApp%20Image%202020-10-08%20at%2020.06.28.jpeg" alt=""></div>
+            </div>
+        </div>
+        <div id="blog_area"></div>
+        <div id="main_modal_window" class="modal_window">
+    <div class="subcontainer">
+        <div class="container">
+            <a href='about.php' >анкета</a><a href='themes.php?th=акции_протеста' >акции протеста</a><a href='#' class='disabled'>выборы</a><a href='#' class='disabled'>здоровье</a><a href='#' class='disabled'>зож</a><a href='#' class='disabled'>горноправдинск</a><a href='landing.php?tag=детство' >детство</a><a href='#' class='disabled'>институт</a><a href='landing.php?tag=курорт' >отдых</a><a href='landing.php?tag=отель' >отели</a><a href='#' class='disabled'>психушка</a><a href='#' class='disabled'>пионербол</a><a href='#' class='disabled'>семья</a><a href='#' class='disabled'>спорт</a><a href='docs.php' >суды</a><a href='#' class='disabled'>судимость</a><a href='#' class='disabled'>таня</a><a href='#' class='disabled'>физкультура</a><a href='#' class='disabled'>мои документы</a>        </div>
+        <div class="close-button"></div>
+    </div>
+</div>
+        <div id="footer" class="footer">
+    <div class="footerCol fc_1">
+            <a href="http://egorsuh.livejournal.com">
+                <img src="data/common_img/lj_icon.png" alt="">
+                <span class="path">http://egorsuh.livejournal.com</span>
+            </a>
+        <a href="http://vk.com/id159037873">
+            <img src="data/common_img/m_vk_logo.png" alt="">
+            <span class="path">http://vk.com/id159037873</span>
+        </a>
+        <a href="https://twitter.com/suhachev75">
+            <img src="data/common_img/m_twitter_logo.png" alt="">
+            <span class="path">https://twitter.com/suhachev75</span>
+        </a>
+        <a href="https://www.youtube.com/channel/UC1circYuSBRzc8-ZJ6t3okw">
+            <img src="data/common_img/m_youtube_logo.png" alt="">
+            <span class="path">https://www.youtube.com/</span>
+        </a>
+        <a href="mailto:suhachevegor@gmail.com">
+            <img src="data/common_img/gmail_logo.png" alt="">
+            <span class="path">suhachevegor@gmail.com</span>
+        </a>
+    </div>
+    <div class="footerCol fc_2">
+        <div class="container form">
+        </div>
+        <div class="container since">
+            <p class="since ru">Сайт основан в 2020г</p>
+            <!-- <p class="since eng">Since autumn 2020</p>  -->
+        </div>
+    </div>
+    <div class="footerCol fc_3">
+        <!-- <span class="title">полезные сайты:</span> -->
+        <div class="linkContainer">
+            <!-- <a class="linkItem" href="https://nemtsov-most.org/"><img src="https://i2.wp.com/nemtsov-most.org/wp-content/uploads/2020/09/cropped-ficon-nemtsov-fon-2.png?fit=257%2C233&ssl=1" alt="">немцов мост</a> -->
+        </div>
+    </div>
+</div>
+<div id="subfooter" class="subfooter"></div>    </div>
+    <script src="javaScript/arch.js"></script>
+    <script src="javaScript/menu_buttons.js"></script>
+    <script src="javaScript/to_sand_the_email.js"></script>
+</body>
+</html>

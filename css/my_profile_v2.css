@@ -1,0 +1,192 @@
+/* ==== my-theme-line ==== */
+
+div.theme-line-flex-container > div {
+    background-color: whitesmoke;
+    display: flex;
+    overflow: hidden;
+    padding: 0 22px;
+    justify-content: space-between;
+    align-items: center;
+    color: #f5f5dc;
+    transition: .6s ease-out;
+}
+
+span.theme-line-flex-item {
+    padding: 0 4px;
+    color: #373737;
+    font-size: 1.2em;
+    font-family: 'Roboto', Arial, sans-serif;
+    /* border: 1px solid; */
+    border-radius: 6px;
+    margin: 6px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+span.theme-line-flex-item > a.empty {
+    opacity: 0.6;
+    color: #848484;
+}
+
+span.theme-line-flex-item > a:hover {
+    color: inherit;
+}
+
+span.theme-line-flex-item > a.empty:hover {
+    text-decoration: none;
+}
+
+
+/**/
+/**/
+/**/
+div.my-profile-flex-container {
+    /* width: 1200px; */
+    display: flex;
+    flex-direction: row;
+    padding: 0 0 19px 19px;
+    gap: 19px;
+    align-items: flex-start;
+    /* min-height: 100vh; */
+}
+
+div.my-profile-flex-container > div.content {
+    width: 66%;
+}
+
+div.my-profile-flex-container > div.carousel {
+	padding: 19px 0 0 0;
+	width: 34%;
+	height: 677px;
+	/* align-self: center; */
+}
+
+div.my-profile-flex-container > div.content {
+    padding: 19px 0 0 0;
+}
+
+div.my-profile-flex-container > div.content > p {
+    text-align: justify;
+    font-family: 'Old Standard TT', serif;
+    font-size: 1.4em;
+    text-indent: 66px;
+}
+
+div.my-profile-flex-container > div.content > div.flex-container-map-and-else {
+    display: flex;
+    /* gap: 9px; */
+    justify-content: stretch;
+}
+
+div.my-profile-flex-container > div.content > div.flex-container-map-and-else > div.flex-item-map-container {
+    flex: 1;
+}
+
+div.my-profile-flex-container > div.content > div.flex-container-map-and-else > div.flex-item-map-container iframe {
+    width: 100%;
+    height: 100%;
+}
+
+div.my-profile-flex-container > div.content > div.flex-container-map-and-else > div.flex-item-img-container {
+    flex: 1;
+    height: 360px;
+    display: flex ;
+    flex-direction: row;
+    justify-content: stretch ;
+}
+
+div.my-profile-flex-container > div.content > div.flex-container-map-and-else > div.flex-item-img-container > div {
+    width: 100%;
+    height: 100%;
+    flex-basis: 100%;
+    flex-shrink: 2;
+    transition: all .4s ease-in-out;
+    position: relative ;
+    overflow: hidden ;
+}
+
+div.my-profile-flex-container > div.content > div.flex-container-map-and-else > div.flex-item-img-container > div:hover {
+    flex-basis: 200%;
+}
+
+div.my-profile-flex-container > div.content > div.flex-container-map-and-else > div.flex-item-img-container > div > img {
+    width: 100% ;
+    height: 100% ;
+    object-fit: cover ;
+}
+
+div.my-profile-flex-container > div.content > div.flex-container-map-and-else > div.flex-item-img-container > div > span.caption {
+	position: absolute;
+	bottom: -100%;
+	left: 0;
+	width: 100%;
+	text-align: right;
+	/* background-color: white; */
+	opacity: 0;
+	transition: all .4s ease-out;
+	padding: 0 9px 0 0;
+	color: white;
+}
+
+div.my-profile-flex-container > div.content > div.flex-container-map-and-else > div.flex-item-img-container > div:hover > span.caption {
+    opacity: 1;
+    bottom: 0;
+}
+
+
+div.my-profile-flex-container .carousel-inner {
+    height: 100%;
+    /* background-color: #17182f; */
+    /* border-left: 9px solid #17182f; */
+}
+
+div.my-profile-flex-container .carousel-item {
+    height: 100%;
+}
+
+div.my-profile-flex-container .carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+div.my-profile-flex-container .carousel-caption {
+	left: 0;
+	right: 0;
+	/* width: 199px; */
+	/* background-color: rgba(99, 99, 99, 0.401); */
+	opacity: 0;
+	animation: fade-in .2s linear forwards .6s;
+	/* position: relative; */
+	padding: 6px 9px;
+	/* padding-bottom: 0; */
+	bottom: 0;
+	text-align: center;
+    /* font-size: 1em; */
+}
+
+div.my-profile-flex-container .carousel-caption h5 {
+	/* width: max-content; */
+	display: inline-block;
+	/* background-color: #17182f7d; */
+	padding: 0;
+	margin: 0;
+	/* color: black; */
+}
+
+
+
+/* ------------------------------------ */
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        /* left: -20%; */
+    }
+
+    to {
+        opacity: 1;
+        /* left: calc( 50%); */
+    }
+}
+

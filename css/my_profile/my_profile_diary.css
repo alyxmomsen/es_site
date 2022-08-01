@@ -1,0 +1,28 @@
+div#my-profile-main-container {
+    
+}
+
+div#diary-main-container {
+	width: 66%;
+	margin: 0 auto;
+}
+
+div#diary-main-container div.diary-the-day {
+    background: linear-gradient(90deg, black 0%, rgba(253,29,29,0) 100%);
+    padding: 6px;
+    color: whitesmoke;
+    /* border-radius: 6px 0; */
+    font-size: 1.2em;
+}
+
+div#diary-main-container .diary-note-box {
+    background-color: transparent;
+    padding: 6px;
+    margin: 6px 0;
+    border: 1px solid;
+}
+
+div#diary-main-container .diary-note-body {
+	font-size: 1.4em;
+}
+

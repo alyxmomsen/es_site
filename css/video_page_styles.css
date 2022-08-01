@@ -1,0 +1,23 @@
+div.video_page_main_container {
+    padding: 19px 0;
+    width:100%;
+}
+
+div.video_page_main_container > div.flex_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 9px;
+    border-bottom: 1px solid grey;
+    /*column-gap: 6px;*/
+    /*row-gap: 6px;*/
+    gap: 6px;
+}
+
+div.video_page_main_container > h2.title_for_video_page {
+    text-align: center;
+    font-size: 2em;
+    color:grey;
+}

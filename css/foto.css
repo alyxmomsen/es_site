@@ -1,0 +1,24 @@
+div.fotoContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    /*border:1px solid black;*/
+    column-gap: 2px;
+    padding: 2px 0;
+}
+
+div.fotoContainer > div.column {
+    /*height: 500px;*/
+    /*border: 1px solid black;*/
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-content: stretch;
+    row-gap: 2px;
+}
+
+div.fotoContainer > div.column > img {
+    width:100%;
+}
+

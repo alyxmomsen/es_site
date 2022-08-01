@@ -1,0 +1,224 @@
+:root {
+    --egor-color: #63141d;
+}
+
+div.themes-page > h2.number-of-themes-display {
+    text-align: center;
+}
+
+div.themes-page > h2.number-of-themes-display > span.number-of-themes {
+    color: #0000ff99;
+    font-size: 1.4em;
+}
+
+div.themes.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: stretch;
+    background-color: whitesmoke;
+    width: 100%;
+    /* min-height: 100vh; */
+    flex-wrap: wrap;
+    gap: 9px;
+    padding-bottom: 19px;
+    padding-top: 19px;
+    padding-left: 19px;
+    padding-right: 19px;
+}
+
+div.themes-page > h2.section-info {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+div.themes-page > h2 > span.title-of-the-section-info {
+    font-size: 1.4em;
+    color: blue;
+}
+
+div.theme.flex-item {
+    /* flex-basis: 19%; */
+    /* flex-grow: 1; */
+    /* min-height: 100px; */
+    border: 4px solid transparent;
+    /* background-color: #ce5a57ed; */
+    /* background-image: url('brick.jpg'); */
+    /* padding: 9px; */
+    /* box-shadow: 0 0 0 whitesmoke; */
+    transition: box-shadow .16s ease-in-out;
+    color: whitesmoke;
+    border: 1px solid black;
+    /* max-width: 9%; */
+    /* box-shadow: 0 0 19px black; */
+    /*border-radius: 9px ;*/
+    overflow: hidden;
+}
+
+div.theme.flex-item.visper {
+    opacity: 0.4;
+}
+
+div.theme.flex-item {
+    background-color:#444;
+    display: flex;
+    align-items: center;
+}
+
+
+
+div.theme.flex-item > h1 > a:hover {
+	color: #f2ecec;
+	text-decoration: none;
+}
+
+div.theme.flex-item:hover
+{
+    /* background-color: rgb(43, 43, 92); */
+    /* border-color:#000 ; */
+    /* transform: scale(1.1); */
+    box-shadow: 0px 0px 6px white;
+} 
+
+div.theme.flex-item > ul {
+    margin: 0;
+    padding: 0;
+}
+
+div.theme.flex-item > ul > li {
+    list-style-type: none;
+    /* list-style-position:; */
+    font-size: 1.4em;
+}
+
+div.theme.flex-item > ul > li > a {
+    cursor: pointer;
+    transition: all 0s ease-in-out ;
+    /* transition: color 1s linear; */
+}
+
+div.theme.flex-item > ul > li > a:hover {
+    text-decoration: underline;
+    color:white;
+}
+
+h1.theme-name {
+    color: #1c2434;
+}
+
+div.theme.flex-item > h1.theme-name {
+    text-align: left;
+    font-family: "Stalinist One";
+    animation: appearence 1s backwards;
+    font-size: 20px;
+    /* color: #ce5a57ed; */
+    /* color: var(--egor-color); */
+    transition: all 1s ease-in-out;
+    margin-bottom: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+div.theme.flex-item > h1.theme-name > a 
+{
+    display: block ;
+    text-align: center;
+    padding: 9px 4px 9px 9px;
+}
+
+/* ------- */
+
+div.theme.flex-item > span {
+    color: black;
+    padding: 9px 9px 9px 4px;
+    font-size: 16px;
+    /* background-color: #212529; */
+    font-family: 'Oswald', sans-serif;
+}
+
+/* -------- */
+
+div.theme.flex-item.priority-1 {
+    background-color:whitesmoke;
+    /* text-transform: uppercase; */
+}
+
+div.theme.flex-item.priority-2 {
+    color: blue ; 
+}
+
+/* background-color:#ce5a57ed; */
+
+
+div.theme.flex-item.priority-1 > h1 > a {
+    color: #1c2434;
+}
+
+/* div.theme.flex-item > h1.theme-name > a:hover {
+    text-decoration: underline;
+    color: blue;
+} */
+
+div.theme.flex-item > h1.theme-name::first-letter {
+    text-transform: uppercase;
+    /* font-family: "Stalinist One"; */
+}
+
+ul.letter_navigator {
+	/* border: 1px solid red; */
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+	margin: 0 auto 19px auto;
+	padding: 0;
+	/* gap: 9px; */
+	width: 25%;
+	border-radius: 6px;
+	background-color: transparent;
+	/* color: black; */
+	border: 1px solid;
+}
+
+ul.letter_navigator > li {
+    list-style-type: none;
+    /* background-color: #ce5a57; */
+    color: white;
+    /* flex-grow: 1; */
+    text-align: center;
+    /* border-radius: 6%; */
+}
+
+ul.letter_navigator > li > a {
+	display: block;
+	padding: 4px;
+	width: 100%;
+	color: black;
+}
+
+/* .hova {
+    animation: hova 1s;
+} */
+
+@keyframes appearence {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* @keyframes hova {
+    from {
+        background-color: red;
+    }
+
+    to {
+        background-color: black;
+    }
+} */
+
+div.theme.flex-item.priority-2 > h1 > a {
+    color: #bfbec3 ; 
+}

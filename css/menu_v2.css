@@ -1,0 +1,129 @@
+div.mainMenu {
+    width:100%;
+    height:auto;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    /*border: 1px solid #0033cc;*/
+}
+
+div.mainMenu > div.menuitem {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 19px;
+    /*border: 1px solid black;*/
+    transition: all .4s ease-out;
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+div.mainMenu > div.menuitem > a.flex_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    position: relative;
+}
+
+div.mainMenu > div.menuitem > a.flex_container > span.eng {
+    color: grey;
+}
+
+div.mainMenu > div.menuitem:hover {
+    background-color: #a92b2b;
+    color: black;
+}
+
+div.mainMenu > div.menuitem > a.flex_container div {
+    display: none;
+    position: absolute;
+    bottom:-100%;
+}
+
+div.mainMenu > div.menuitem > a.flex_container:hover > div {
+    display: flex;
+}
+
+ul.subheaderMenu {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    /*border: 1px solid green;*/
+    align-items: center;
+    justify-content: flex-end;
+    /*flex-wrap: wrap;*/
+    /*height: 91px;*/
+    background-color: #17182f;
+    color: white;
+}
+
+ul.subheaderMenu li.menuItem {
+	list-style-type: none;
+	/* border: 1px solid red; */
+	display: block;
+	/* width: 14%; */
+	text-align: center;
+	padding: 10px 0;
+	/* padding-top: 1px; */
+	/* padding-bottom: 10px; */
+	flex: 14%;
+	transition: all .4s ease-in-out;
+	text-transform: uppercase;
+	font-family: Stalinist One;
+	font-size: 1.9em;
+    font-weight: bold;
+    color: #eee;
+}
+
+ul.subheaderMenu li.menuItem.item1 {
+    color: red;
+    /* font-size: 4em;
+    transform: rotate(0deg); */
+}
+
+ul.subheaderMenu li.menuItem.item5 {
+    color: red;
+    /* font-size: 4em;
+    transform: rotate(0deg); */
+}
+
+/*****menuButton********/
+
+ul.subheaderMenu > li.centralItem {
+    /* display: flex; */
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+ul.subheaderMenu > li.centralItem > div.menuButton {
+    background-color: darkred;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    cursor: pointer;
+    transform: scale(1.4);
+}
+
+ul.subheaderMenu > li.centralItem > div.menuButton > div.button_line {
+    width:69%;
+    height:4px;
+    background-color: #17182f;
+    transition: all .2s ease-out;
+}
+
+ul.subheaderMenu > li.centralItem > div.menuButton:hover > div.button_line {
+    background-color: whitesmoke;
+    color:#17182f;
+    /*transform: rotate(9deg);*/
+    /*padding-top: 6px;*/
+    /*padding-bottom: 14px;*/
+}

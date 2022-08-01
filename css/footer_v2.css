@@ -1,0 +1,304 @@
+div.footer {
+    padding: 19px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content:center ;
+    /*border: 1px solid red;*/
+    column-gap: 10px;
+    color: white;
+}
+
+div.footer > div.footerCol {
+    flex: 1;
+    height: auto;
+    background-color: inherit;
+    /*border: 1px solid darkred;*/
+    padding: 9px;
+}
+
+/* ------------------------------- */
+
+div.footerCol.fc_1 a {
+    /* color: grey; */
+}
+
+div.footerCol.fc_1 a.soc-icon {
+    color: whitesmoke;
+}
+
+div.footerCol.fc_1 > a:hover {
+    color: inherit;
+    text-decoration: underline 1px solid grey;
+}
+
+div.footer > div.footerCol.fc_1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+    row-gap: 4px;
+    position: relative;
+
+}
+
+div.footer > div.footerCol.fc_1 > div.wrapper {
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    /* border: 1px solid; */
+    column-gap: 9px;
+    /* padding-right: 293px; */
+    row-gap: 19px;
+    padding-top: 39px;
+    width: 137px;
+}
+
+div.footer > div.footerCol.fc_1 > div.wrapper > * > img {
+    /* border: 1px solid green; */
+    width: 40px;
+    background-color: whitesmoke;
+}
+
+div.social-icons {
+    width: 44px ;
+    height: 44px ;
+    background-color: hotpink ;
+    background-image: url('../data/icons/socialIcons.jpg');
+    background-position: 0 0;
+    background-size: 100%;
+}
+
+a.awsome-icon > span::after {
+    content: "\f203";
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+
+
+.mobile-phone-number {
+    font-family: 'Oswald', sans-serif;
+    font-size: 14px;
+}
+
+/* ------------------------------------------------------------ */
+
+
+
+.usual-links-trigger {
+    font-family: 'Oswald', sans-serif;
+    font-size: 14px;
+}
+
+div.usual_links {
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	left: -199px;
+	z-index: -6;
+	bottom: 80px;
+	width: 444px;
+	height: auto;
+	background-color: #78a5a3;
+	padding: 19px;
+	transition: cubic-bezier(.29,-0.2,.06,.21);
+	color: #1c2434;
+	/* text-transform: lowercase; */
+	box-shadow: 2px 2px 9px black;
+}
+
+div.usual_links > a.usual-link {
+    color:#1c2434;
+    font-family: "Roboto Mono" , sans-serif;
+    text-decoration: none;
+    transition: .2s ease-out;
+}
+
+div.usual_links > a:hover {
+    padding-left: 9px;
+    /* tex */
+}
+
+div.usual_links > div.closing-button {
+    position: absolute;
+    top: 9px;
+    right: 9px;
+    width: 19px;
+    height: 19px;
+    /* background-color: #ce5a57; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+}
+
+/* div.usual_links > div.closing-button > div.cross {
+
+} */
+
+
+
+
+
+div.footer > div.footerCol.fc_3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+div.footer > div.footerCol.fc_2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+
+/*div.footer > div.footerCol.fc_2 > a {
+    text-align: center;
+    padding: 0 0 9px 0;
+    color: #78a5a3;
+}*/
+
+div.footer > div.footerCol.fc_2 > a {
+    text-align: center;
+    /* color: grey; */
+    font-family: 'Oswald', sans-serif;
+    font-size: 14px;
+}
+
+div.footer > div.footerCol.fc_2 > a:hover {
+   color: inherit;
+   text-decoration: underline grey  ;
+}
+
+div.footer > div.footerCol.fc_2 > div.container.form {
+    position: relative;
+}
+
+div.footer > div.footerCol.fc_2 > div.container.form > div.protector {
+    position: absolute;
+    top: 0 ;
+    height: 100% ;
+    left: 0 ;
+    width: 100% ;   
+    background-color: transparent ;
+}
+
+div.footer > div.footerCol.fc_2 > div.container.form > iframe {
+    width: 100%;
+    height: 296px;
+
+}
+
+div.footer > div.fc_2 > div.container.form form {
+    /*display: block;*/
+    width:60%;
+    margin: 0 auto;
+}
+
+div.footer > div.fc_2 > div.container.form form input[type="email"] {
+    display: block;
+    margin: 0 auto;
+    width:100%;
+    font-size: 19px;
+}
+
+div.footer > div.fc_2 > div.container.form form > p {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+/* ---------------------- since block ---------------------- */
+
+div.since-block {
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    text-align: center;
+    margin-top: 9px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 14px;
+}
+
+div.since-block > p {
+    margin: 0 ;
+}
+
+/* ---------------------- since block end ---------------------- */
+
+div.site-agreement {
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    text-align: center;
+    padding: 0;
+    margin-top: 9px;
+    font-family: 'Oswald', sans-serif;
+}
+
+div.site-agreement > a:hover {
+    color: inherit;
+    text-decoration: underline 1px whitesmoke;
+}
+
+/* --------------------------------------------------------------- */
+
+
+
+/* middle */
+
+/* middle */
+
+div.footer > div.footerCol.fc_3 > span.title {
+    font-size: 1.2em;
+    text-align: center;
+}
+
+div.footer > div.footerCol.fc_3 > div.linkContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /*border: 1px solid whitesmoke;*/
+    padding-top: 9px;
+}
+
+div.footer > div.footerCol.fc_3 > div.linkContainer > * {
+    width:20%;
+    /*border: 1px solid whitesmoke;*/
+}
+
+div.footer > div.footerCol.fc_3 > div.linkContainer > a {
+    text-align: center;
+}
+
+div.footer > div.footerCol.fc_3 > div.linkContainer > a > img {
+    width:100%;
+    /*border: 1px solid whitesmoke;*/
+}
+
+div.footer > div.footerCol.fc-4 {
+    display: none;
+}
+
+/* ==================================== progress-bar ================================== */
+
+div.progress-bar {
+    position: fixed;
+    top: 0 ; 
+    left: 0 ; 
+    width: 199px ; 
+    height: 199px ; 
+    background-color: aquamarine ;
+    
+}
+
+/* ==================================== progress-bar end ================================== */

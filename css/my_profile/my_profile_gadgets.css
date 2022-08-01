@@ -1,0 +1,32 @@
+#gadgets-main-container {
+	width: 60%;
+	margin: 0 auto;
+}
+
+/* #gadgets-main-container .gadgets-item {
+
+} */
+
+#gadgets-main-container .gadgets-item-date {
+	/* font-weight: bold; */
+	/* font-family: 'Oswald', sans-serif; */
+	/* font-family: 'Playfair Display', serif; */
+	font-family: 'Roboto Mono', monospace;
+}
+
+#gadgets-main-container .gadgets-body {
+	font-size: 1.2em;
+	padding: 19px 0;
+}
+
+/* #gadgets-main-container  */
+
+/* #gadgets-main-container  */
+
+/* #gadgets-main-container  */
+
+/* #gadgets-main-container  */
+
+/* #gadgets-main-container  */
+
+/* #gadgets-main-container  */

@@ -1,0 +1,1496 @@
+
+<script></script>
+<!doctype html>
+<html lang="ru-RU">
+    <head>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+        <!-- ========= -->
+            <link rel="icon" href="./data/ellipse.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Montserrat&family=Old+Standard+TT&family=Yanone+Kaffeesatz:wght@500&display=swap" rel="stylesheet"> 
+    
+    <!-- <meta charset="utf8"> -->
+    <meta charset="UTF-8">
+    <meta name="description" lang="ru" content="главные события мира">
+    <meta name="description" lang="en" content="main events of the world">
+    <meta name="keywords" lang="ru" content="политика новости юмор">
+    <meta name="keywords" lang="en" content="humor russia goverment">
+    <!-- Индексация и переход по ссылкам разрешены -->
+    <meta name="robots" content="index, follow"> 
+    <!-- обновить страницу через 30 сек -->
+    <!-- <meta http-equiv="refresh" content="30; url=http://yandex.ru/">  -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <script src="jquery/jquery-3.5.1.min.js"></script>
+    <link rel="stylesheet" href="css/head_v1.css?v=1641814997">
+    <link rel="stylesheet" href="css/footer_v2.css?ver=1641814997">
+    <link rel="stylesheet" href="css/mainCss_v2.css?v=1641814997">
+    <link rel="stylesheet" href="css/menu_v2.css?v=1641814997">
+    <!-- <link rel="stylesheet" href="css/themes_v2.css"> -->
+    <!-- Add icon library -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+        <!-- ---- -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"> -->
+    <script src="https://kit.fontawesome.com/da9981aa25.js" crossorigin="anonymous"></script>        <!-- bootstrap -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        <!-- \bootstrap -->
+        <link rel="stylesheet" href="css/indx_v2.css?v=1641814997">
+        <!-- <link rel="stylesheet" href="css/footer_v2.css?v=20210830_1538"> -->
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+        </style>
+    </head>
+<body>
+
+    <div id='' class="superMain">
+        
+<div hidden>int(0)
+array(3) {
+  [0]=>
+  array(0) {
+  }
+  ["diedChange"]=>
+  array(0) {
+  }
+  [1]=>
+  array(0) {
+  }
+}
+</div><style>
+    @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+</style>
+<div id="particles-js" class="main-head">
+    <div id="mainheader" class="header">
+        <div class="quote">
+
+            
+
+
+<div id='quotesSlider' class='carousel slide' data-ride='carousel'>
+<div class='carousel-inner'>
+
+<div class='carousel-item  active' data-bs-interval='1000'><p class='quote ru'>Ветхую кожу сбрось!<br> 
+С этой землёю врозь,<br> 
+Кровь обнови умом,<br> 
+Небо расправь крылом!<br> 
+<i style='color:grey'>Николай Боголюбов</i></p></div><div class='carousel-item ' data-bs-interval='1000'><p class='quote ru'>Нас записали в эктремисты!<br> 
+Вот это фокус, ну и ну!<br> 
+С фашизмом борются нацисты,<br> 
+Перетерая в прах страну.<br> 
+<i style='color:grey'>Николай Боголюбов</i></p></div><div class='carousel-item ' data-bs-interval='1000'><p class='quote ru'>Обманщики, аферисты,<br> 
+Насильники, палачи<br> 
+Сияют в лучах-артистах,<br> 
+Ты бисер тут не мечи!<br> 
+<i style='color:grey'>Николай Боголюбов</i></p></div><div class='carousel-item ' data-bs-interval='1000'><p class='quote ru'>В человеке вложена потребность счастья,<br> стало быть оно законно.<br>
+<i style='color:grey'>Л.Н.Толстой</i></p></div><div class='carousel-item ' data-bs-interval='1000'><p class='quote ru'>Жениться надо всегда так же, как мы умираем,<br> то есть только тогда, когда невозможно иначе.<br>
+<i style='color:grey'>Л.Н.Толстой</i></p></div><div class='carousel-item ' data-bs-interval='1000'><p class='quote ru'>Знание без нравственной основы<br> ничего не значит.<br>
+<i style='color:grey'>Л.Н.Толстой</i></p></div><div class='carousel-item ' data-bs-interval='1000'><p class='quote ru'>Счастье есть удовольствие без раскаяния.<br>
+<i style='color:grey'>Л.Н.Толстой</i></p></div><div class='carousel-item ' data-bs-interval='1000'><p class='quote ru'>Короткие мысли тем и хороши,  <br>что они заставляют серьёзного читателя самого думать.<br>
+<i style='color:grey'>Л.Н.Толстой</i></p></div><div class='carousel-item ' data-bs-interval='1000'><p class='quote ru'>Нет величия там, где нет простоты, <br>добра и правды.<br>
+<i style='color:grey'>Л.Н.Толстой</i></p></div><div class='carousel-item ' data-bs-interval='1000'><p class='quote ru'>Никакая деятельность не может быть прочна, <br>если она не имеет основы в личном интересе.<br>
+<i style='color:grey'>Л.Н.Толстой</i></p></div>    
+</div>
+</div>
+<!-- <ol class='carousel-indicators'>
+    <li data-target='#quotesSlider' data-slide-to='0' class='active'></li>
+    <li data-target='#quotesSlider' data-slide-to='1'></li>
+    <li data-target='#quotesSlider' data-slide-to='2'></li>
+</ol> -->
+
+<style>
+    
+
+    /* @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap'); */
+    /* @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Stalinist+One&display=swap'); */
+
+    div.quote {
+        width: 20%;
+        color: whitesmoke;
+        font-family: 'Oswald', sans-serif;
+        font-size: 22px;
+        height: 126px;
+    }
+
+</style>
+
+        </div>
+
+        <div class='covid-stats-display'>
+            <div class='stat link-to-source'>
+                <div>
+                                        <span>на 5 января</span>
+                </div>
+                <div><span style="">выявленно: </span>
+                    <span style="">
+                        15772                    </span>
+                </div>
+<!--                <div><span style="">выявленно: </span><span style="">37141</span></div>-->
+                <div><span style="">умерло: </span>
+                    <span style="">
+                        828                    </span>
+                </div>
+<!--                <div><span style="">умерло: </span><span style="">1064</span></div>-->
+            </div>
+			<a class="covid-stats-link" target='_blank' style='' href='https://стопкоронавирус.рф/information/'>стопкоронавирус.рф</a>
+        </div>
+
+        <!-- <div class='currence-rate'>
+             
+            <div class='euro'>
+                <span class='the-currence'>euro: </span>
+                <span class='buy'>87.6</span>
+                <span class='separator'>|</span>
+                <span class='sale'>83.6</span>
+            </div>
+                        <div class='usd'>
+                <span class='the-currence'>usd: </span>
+                <span class='sale'>77.5</span>
+                <span class='separator'>|</span>
+                <span class='buy'>73.5</span>
+            </div>
+        </div> -->
+        <!-- weather section -->
+        <div class='weather'>
+            <span class='caption'>Москвa: </span><span class='data'>-5.9</span><!-- <\?= $gmd->getDeg() ?> -->
+            <div class='icon-inner-container'>
+            
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 375.2 375.2" style="enable-background:new 0 0 375.2 375.2;" xml:space="preserve">
+<g>
+	<g>
+		<path d="M349.6,157.4c-16-16-38-25.6-62.4-25.6c-2.8,0-5.6,0-8.4,0.4c-8.4-18.4-21.6-33.6-37.6-44.8c-18.4-12.8-40.4-20-63.6-20    c-27.6,0-52.8,10-72.8,26.8c-17.6,15.2-30.4,35.6-36,59.6c-18,2-34,10-46,22C8.8,189.8,0,209,0,230.6c0,21.2,8.8,40.8,22.8,54.8    c14,13.6,33.2,22.4,54.8,22.4h209.6c24.4,0,46.4-10,62.4-25.6c16-16,25.6-38,25.6-62.4C375.2,195.4,365.2,173.4,349.6,157.4z     M333.6,267c-12.4,12.4-29.2,19.6-47.6,19.6H77.6c-15.6,0-30-6.4-40-16.8c-10.4-10.4-16.8-24.4-16.8-40c0-15.2,6.4-29.2,16.4-39.6    c10.4-10.4,24.4-16.8,40-16.8c1.6,0,3.2-0.4,4.4-1.2H82c2.4-1.6,4-4,4.4-7.2c3.2-22.4,14.8-41.6,30.8-55.2    c16-13.6,36.8-22,59.2-22c19.2,0,37.2,6,52,16.4c12,8.4,22,19.2,28.8,32.4c-2.4,0.8-4.8,2-7.2,2.8c-11.2,5.2-21.2,12.4-29.6,22    c-3.6,4.4-3.2,10.8,0.8,14.4c4.4,3.6,10.8,3.2,14.4-0.8c6.4-7.2,14-12.8,22.8-16.8c8.4-4,18-6,27.6-6c18.8,0,35.6,7.6,47.6,19.6    c12.4,12.4,19.6,29.2,19.6,47.6C353.2,238.2,345.6,255,333.6,267z"/>
+	</g>
+</g>
+</svg>             </div>
+             <a target='_blank' style='' href='https://meteoinfo.ru'> meteoinfo.ru</a>
+        </div>
+        <!-- END weather section -->
+        <div class="description">
+            <p class="description ru">Не сможешь- поможем,<br>не захочешь- накажем.</p>
+        </div>
+    </div>
+    <div class="brand-name-letters flex-container">
+        <span class="letter flex-item">е</span>
+        <span class="letter flex-item">г</span>
+        <span class="letter flex-item">о</span>
+        <span class="letter flex-item">р</span>
+        <span class="letter flex-item logo paralax"><a href="index.php"></a></span>
+        <span class="letter flex-item">с</span>
+        <span class="letter flex-item">у</span>
+        <span class="letter flex-item">х</span>
+        <span class="letter flex-item">а</span>
+        <span class="letter flex-item">ч</span>
+        <span class="letter flex-item">ё</span>
+        <span class="letter flex-item">в</span>
+    </div>
+    <!-- <div class='link-to-themes'>
+        <div class="flex-item container">
+            <a href='themes.php#scroll-id-named-theme-lol'>темы</a>
+        </div>
+        <div class="flex-item container">
+            <a href="my_profile.php">обо мне</a>
+        </div>
+        <div class="flex-item container">
+            <a href='#'>люди</a>
+        </div>
+    </div> -->
+    <div id="module_menuButton">
+    <div class="menu-button">
+        <span class='inner'>Меню</span>
+    </div>
+</div>
+
+<style>
+
+#module_menuButton {
+	position: absolute;
+	bottom: 9px;
+	right: 19px;
+	--width: 99px;
+	width: var(--width);
+	margin: 0;
+	padding: 0;
+	height: auto;
+    cursor: pointer;
+}
+
+#module_menuButton > div.menu-button {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* height: var(--width); */
+    height: auto;
+    background-color: grey;
+    transition: background-color .1s linear;
+    /* display: none; */
+    /* visibility: hidden; */
+    box-shadow: 0 0 9px grey;
+    border-radius: 6%;
+    font-size: 19px;
+    color: #ebecf4;
+    align-items: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+</style>
+
+
+</div>
+<style>
+
+    @keyframes text_shifting {
+        from {
+
+        }
+
+        to {
+
+        }
+    }
+
+    #mainheader .quote i {
+        display: block;
+        text-align: right;
+        padding-right: 9px;
+        font-size: .8em;
+        /* font-style: inherit; */
+        font-family: 'Playfair Display', serif;
+        font-style: italic;
+    }
+
+
+
+</style>
+
+        <div class='last-news-section'>
+            <!-- <h1 class='last-news-title'><a href="news.php">Новости</a></h1> -->
+            <div id="carouselExampleCaptions" data-touch='true' class="carousel slide parallax" data-ride="carousel">
+                <div class="carousel-inner">
+
+                    
+                <div class='carousel-item
+             active
+            ' data-interval='8000'>
+
+            <div class='item-group'>
+            
+            
+                    
+                    <div id='block-4208' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>02:38:02</span><span class='separator'> | </span>
+                                        <span date=''>протест</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4208'><img src='data/img/news-20220110-1641814682-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Мир</a></span>
+                            <span class='content'>2 demonstrators killed at Sudan protest against military rule
+Both died after being struck by tear gas canisters as thousands of anti-coup protesters rallied.
+Two demonstrators were killed as security forces broke up a protest in Sudan’s capital Khartoum, as thousands took part in rallies rejecting military rule following a coup 11 weeks ago.
+The coup, led by army chief General Abdel Fattah al-Burhan on October 25, derailed a power-sharing transition between the mil</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+                    
+                    <div id='block-4207' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>02:29:49</span><span class='separator'> | </span>
+                                        <span date=''>смерть</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4207'><img src='data/img/news-20220110-1641814189-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Мир</a></span>
+                            <span class='content'>At least 200 dead in bandit attacks in northwest Nigeria
+About 200 people were buried following killings of civilians by motorcycle-riding gunmen in Zamfara state with many still unaccounted for.
+An estimated 200 people were killed and 10,000 displaced in attacks by armed bandits in the northwestern Nigerian state of Zamfara following military air raids on their hideouts last week.
+A spokesperson for Sadiya Umar Farouq, minister of humanitarian affairs, said more than</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+                    
+                    <div id='block-4206' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>02:23:21</span><span class='separator'> | </span>
+                                        <span date=''>смерть</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4206'><img src='data/img/news-20220110-1641813801-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Мир</a></span>
+                            <span class='content'>Dozens killed in Ethiopian air strike on IDP camp in Tigray
+Aid workers and TPLF say 56 killed in an air raid on a camp for displaced people in Dedebit near the border with Eritrea.
+At least 56 people have been killed and 30 others wounded in Ethiopias Tigray following an air raid on a camp for civilians displaced by the brutal conflict in the northern region, according to rebels and humanitarian workers.
+In a tweet on Saturday, Getachew Reda, a spokesman for the Tigr</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+
+            </div>
+            
+            </div>
+                <div class='carousel-item
+            
+            ' data-interval='8000'>
+
+            <div class='item-group'>
+            
+            
+                    
+                    <div id='block-4205' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>02:15:58</span><span class='separator'> | </span>
+                                        <span date=''>катаклизмы</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4205'><img src='data/img/news-20220110-1641813358-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Мир</a></span>
+                            <span class='content'>Pakistan: At least 21 dead as heavy snow traps people in cars
+Deceased include eight members of the same family after their vehicles were submerged in snow, officials say.
+At least 21 people have died after heavy snow trapped them in their vehicles as tens of thousands of visitors thronged Pakistans resort town of Murree.
+Most of the victims died of hypothermia, officials said. Among them was an Islamabad police officer and seven members of his family, fellow police o</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+                    
+                    <div id='block-4204' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>02:09:15</span><span class='separator'> | </span>
+                                        <span date=''>катаклизмы</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4204'><img src='data/img/news-20220110-1641812955-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Индонезия</a></span>
+                            <span class='content'>24,000 evacuated, two dead in Sumatra floods
+About 24,000 people have been evacuated and two children killed in floods on Sumatra island, officials said Tuesday, with environmental campaigners blaming deforestation for worsening the disaster. 
+Torrential rains have hammered the island for days, causing rivers to burst their banks and sending water levels surging in residential areas, the national disaster agency said.
+"We experience flooding at least five to eight </span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+                    
+                    <div id='block-4203' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>10:04:51</span><span class='separator'> | </span>
+                                        <span date=''>смерть</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4203'><img src='data/img/news-20220110-1641798291-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Бразилия</a></span>
+                            <span class='content'>10 dead after cliff collapses on tourist boats in Brazil (см. видео в источнике)
+At least 10 people are dead and two remain hospitalized after a slab of a cliff broke off Saturday afternoon and crashed down onto four tourist boats in a lake in Brazil, officials said.
+The incident took place at Lake Furnas, a popular tourist spot roughly 260 miles north of Sao Paulo, around 12:30 p.m., according to the Minas Gerais state fire department. The Brazilian Navy and</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+
+            </div>
+            
+            </div>
+                <div class='carousel-item
+            
+            ' data-interval='8000'>
+
+            <div class='item-group'>
+            
+            
+                    
+                    <div id='block-4202' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>09:46:15</span><span class='separator'> | </span>
+                                        <span date=''>дтп_смерть</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4202'><img src='data/img/news-20220110-1641797175-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Владимир</a></span>
+                            <span class='content'>Три человека погибли на трассе Иваново-Ярославль в ДТП с фурой
+В легковушке находился ребенок, он выжил
+Жуткое ДТП случилось в Ивановской области сегодня, 8 января в 11 часов в Комсомольском районе около деревни Припеково. Столкнулись легковой автомобиль и фура "�</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+                    
+                    <div id='block-4201' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>09:36:24</span><span class='separator'> | </span>
+                                        <span date=''>дети</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4201'><img src='data/img/news-20220110-1641796584-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Омск</a></span>
+                            <span class='content'>Суд вынес приговор омскому бизнесмену, истязавшему своих детей
+В начале прошлого года в интернете вызвало огромный резонанс видео, где Юнусов бросает на пол лицом вниз 8-летнюю падчерицу и 5-летнего сына. Суд приговорил его к 8 месяцам колонии, но отбывать срок он не б�</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+                    
+                    <div id='block-4200' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>09:28:48</span><span class='separator'> | </span>
+                                        <span date=''>убийство</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4200'><img src='data/img/news-20220110-1641796128-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Ростов</a></span>
+                            <span class='content'>В Ростовской области назвали причину жестокого убийства двух человек
+Жителя Мартыновского района задержали за убийство бывшей супруги и ее знакомого, сообщили в УСКР по Ростовской области.
+Убийство произошло 7 января по месту жительства фигуранта. Причиной ст�</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+
+            </div>
+            
+            </div>
+                <div class='carousel-item
+            
+            ' data-interval='8000'>
+
+            <div class='item-group'>
+            
+            
+                    
+                    <div id='block-4199' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>09:18:52</span><span class='separator'> | </span>
+                                        <span date=''>алкоголь</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4199'><img src='data/img/news-20220110-1641795532-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Ханты-Мансийск</a></span>
+                            <span class='content'>В Югре от нелегального алкоголя за 2 дня скончалось 8 человек
+По факту гибели 8 жителей Кондинского района ХМАО возбуждено и расследуется уголовное дело по признакам преступления, предусмотренного части 3 статьи 238 УК РФ (сбыт товаров и продукции, не отвечающих требов</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+                    
+                    <div id='block-4198' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>10.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>09:09:51</span><span class='separator'> | </span>
+                                        <span date=''>смерть</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4198'><img src='data/img/news-20220110-1641794991-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Дагестан</a></span>
+                            <span class='content'>Две женщины отравились угарным газом в Хасавюрте
+В Дагестане в городе Хасавюрт накануне ночью произошел несчастный случай. От отравления угарным газом скончались две женщины, передают правоохранительные органы.
+Их тела были обнаружены в пристройке частного д�</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+                    
+                    <div id='block-4197' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>07.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>02:15:06</span><span class='separator'> | </span>
+                                        <span date=''>дтп_смерть</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4197'><img src='data/img/news-20220107-1641554106-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Санкт-Петербург</a></span>
+                            <span class='content'>Число погибших в аварии со скорой под Петербургом выросло до двух. Возбуждено дело
+Уголовное дело возбуждено после столкновения кареты скорой помощи и «Нексия» на автодороге М-10 «Россия» (Москва — Санкт-Петербург) в Ленобласти. Пострадавшие есть в обоих автомобиля�</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+
+            </div>
+            
+            </div>
+                <div class='carousel-item
+            
+            ' data-interval='8000'>
+
+            <div class='item-group'>
+            
+            
+                    
+                    <div id='block-4196' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>07.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>02:10:31</span><span class='separator'> | </span>
+                                        <span date=''>дети_убийство</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4196'><img src='data/img/news-20220107-1641553831-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Ярославль</a></span>
+                            <span class='content'>Ребенок погиб и двое взрослых пострадали при ДТП в Вологодской области
+Маленький ребенок сидел на переднем сиденье машины.
+Четырехлетняя девочка погибла, еще двое взрослых пострадали при столкновении двух легковых машин в Сокольском районе Вологодской област</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+                    
+                    <div id='block-4195' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>07.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>02:02:33</span><span class='separator'> | </span>
+                                        <span date=''>дтп_смерть</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4195'><img src='data/img/news-20220107-1641553353-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Нижний Новгород</a></span>
+                            <span class='content'>В Нижегородской области нетрезвый водитель снегохода устроил смертельное ДТП
+Смертельная авария произошла вчера вечером, 5 января 2022 года в 20.30, в селе Фокино Воротынского района Нижегородской области.
+Как сообщает пресс-служба ГУ МВД России по Нижегородской о�</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+                    
+                    <div id='block-4194' class='the_slide'>
+                        <div class='date-time-block'>
+                            <div class='date-time'>
+                                <span date=''>07.01.2022</span>
+                                <span class='separator'> | </span>
+                                <span date=''>01:51:22</span><span class='separator'> | </span>
+                                        <span date=''>дети</span></div> 
+                        </div>
+                        <a href='th1nws.php?th1nwsID=4194'><img src='data/img/news-20220107-1641552682-main.jpg'></a>
+                        <div class='body'>
+                            <span class='theme'><a href=''>Оренбург</a></span>
+                            <span class='content'>В Переволоцком районе из-за упавшего с крыши снега пострадал 12-летний ребенок
+От схода снега в Переволоцком районе пострадал 12-летний ребенок. Об этом сообщили в пресс-службе УМВД по Оренбургской области.
+Инцидент случился на ул. Нефтянников. Ребенок находился у</span>
+                            <div class='hidder_lol'></div>
+                        </div>
+                        <div class='mask-cover'></div>
+                    </div>
+
+                    
+
+            </div>
+            
+            </div><div hidden="true">Array
+(
+    [0] => PDO Object
+        (
+        )
+
+    [1] => 75
+    [2] => протест
+    [3] => 12
+    [4] => смерть
+    [5] => 12
+    [6] => смерть
+    [7] => 26
+    [8] => катаклизмы
+    [9] => 26
+    [10] => катаклизмы
+    [11] => 12
+    [12] => смерть
+    [13] => 61
+    [14] => дтп_смерть
+    [15] => 7
+    [16] => дети
+    [17] => 10
+    [18] => убийство
+    [19] => 80
+    [20] => алкоголь
+    [21] => 12
+    [22] => смерть
+    [23] => 61
+    [24] => дтп_смерть
+    [25] => 51
+    [26] => дети_убийство
+    [27] => 61
+    [28] => дтп_смерть
+    [29] => 7
+    [30] => дети
+)
+Array
+(
+)
+</pre></div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+                
+
+                    <ol class='carousel-indicators'>
+
+                
+                        <li data-target='#carouselExampleCaptions' data-slide-to='0'
+                    class='active'
+                        ></li>
+                    
+                        <li data-target='#carouselExampleCaptions' data-slide-to='1'
+                    
+                        ></li>
+                    
+                        <li data-target='#carouselExampleCaptions' data-slide-to='2'
+                    
+                        ></li>
+                    
+                        <li data-target='#carouselExampleCaptions' data-slide-to='3'
+                    
+                        ></li>
+                    
+                        <li data-target='#carouselExampleCaptions' data-slide-to='4'
+                    
+                        ></li>
+                    
+
+                    </ol>
+
+                            </div>
+
+        </div>
+         
+
+<style>
+    form.form-to-search {
+        /* border: 2px solid white;
+        border-radius: 19px; */
+        font-family: 'Old Standard TT', serif;
+    }
+
+    form.form-to-search > fieldset > legend {
+        color: #981f1f;
+        text-align: center;
+    }
+
+    form.form-to-search > fieldset > input.to-write-request-keyword {
+        border: 1px solid green ;
+        display: block ;
+        margin: 6px auto ;
+        font-size: 1.4em ;
+        width: 80% ;
+        overflow: hidden ;
+        text-align: center ;
+    }
+
+    form.form-to-search > fieldset > select {
+        border: 1px solid green ;
+        display: block ;
+        margin: 6px auto ;
+        font-size: 1.4em ;
+        width: 80% ;
+        overflow: hidden ;
+        color:#28545b; 
+        text-align: center ;
+    }
+
+    form.form-to-search > fieldset > select > option {
+        text-align: center;
+    }
+
+    form.form-to-search > fieldset > input[type=submit] {
+        /* background-color: red; */
+        margin: 19px auto;
+        display: block;
+    }
+
+</style>
+
+<div id="footer" class="footer">
+    <div class="footerCol fc_1">
+        <div class="wrapper">
+            <a class="soc-icon" target="_blank" href="http://egorsuh.livejournal.com">
+                <img src="data/img/icons/121543.png" alt="">
+                <!-- <span class="path">http://egorsuh.livejournal.com</span> -->
+            </a>
+            <a class="soc-icon" target="_blank" href="http://vk.com/id159037873">
+                <i class="fab fa-vk fa-3x"></i>
+                <!-- <span class="path">http://vk.com/id159037873</span> -->
+            </a>
+            <a class="soc-icon" target="_blank" href="https://twitter.com/suhachev75">
+                <i class="fab fa-twitter fa-3x"></i>
+                <!-- <span class="path">https://twitter.com/suhachev75</span> -->
+            </a>
+            <a class="soc-icon" target="_blank" href="https://www.youtube.com/channel/UC1circYuSBRzc8-ZJ6t3okw">
+                <i class="fab fa-youtube fa-3x"></i>
+                <!-- <span class="path">https://www.youtube.com/</span> -->
+            </a>
+            <a class="soc-icon" target="_blank" href="mailto:suhachevegor@gmail.com">
+                <i class="fas fa-at fa-3x"></i>
+                <!-- <span class="path">suhachevegor@gmail.com</span> -->
+            </a>
+            <a class="soc-icon" target="_blank" href="https://www.instagram.com/7930egor/">
+                <i class="fab fa-instagram fa-3x"></i>
+                <!-- <span class="path">@7930egor/</span> -->
+            </a>
+            <style>
+                .fa-3x {
+                   font-size: 30px;
+                }
+            </style>
+        </div>
+        <div class="mobile-phone-number">
+            <span style="">+7 (967) 186-32-20</span>
+            <span ><span style="">(</span><span style="">только для СМС</span><span style="">)</span></span>
+        </div>
+
+        <div class="qr-code-block" style="display: flex;column-gap: 9px;justify-content: flex-start;">
+            <div style="width: 96px; display: flex;flex-direction: column;justify-content: center;row-gap: 9px;">
+                <img style="width: 100%; object-fit:contain;height:auto;" src="http://egorsukhachev.com/data/img/system-qr-code_for_mobile_6.gif" alt="">
+                <a href="http://m.egorsukhachev.com" style="display:block; width:100%; text-align: center; text-decoration:none; color:whitesmoke; margin: 0px auto; padding:6px 0;background-color:grey;font-size:1em;">мобильная <br>версия</a>
+            </div>
+            <div style="width: 96px; display: flex;flex-direction: column;justify-content: center;row-gap: 9px;">
+                <img style="width: 100%; object-fit:contain;height:auto;" src="http://egorsukhachev.com/data/img/system-qr-code_for_desktop_6.gif" alt="">
+                <a href="http://egorsukhachev.com" style="display:block; width:100%; text-align: center; text-decoration:none; color:whitesmoke; margin: 0px auto; padding:6px 0;background-color:grey;font-size:1em;">настольная <br>версия</a>
+            </div>
+        </div>
+
+        <!-- <a class="usual-links-trigger" href="#">Ссылки</a> -->
+                    <script>
+                let elem = document.querySelector("a.usual-links-trigger");
+                let ulinkselem = document.querySelector("a.usual_links");
+                elem.addEventListener('click' , function(event){
+                    event.preventDefault();
+                    $('#module_usual_links_modal_window').css({
+                        display: 'flex' ,
+                        zIndex: 1
+                        
+                    });
+
+                });
+
+                let closeButtonElem = document.querySelector('.u-l-m-w-close-button');
+                closeButtonElem.addEventListener('click' , () => {
+                    $('#module_usual_links_modal_window').css({
+                        display: 'none' ,
+                        zIndex: -1
+                        
+                    });
+                });
+
+                // alert();
+                
+            </script>
+        <!-- </div> -->
+    </div>
+    <div class="footerCol fc_2">
+        <a href="my_profile.php">
+            <span class='where-i-am'>ГДЕ Я</span>
+        </a>
+        <div class="container form">
+        <!-- <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ad22e00f71b3806d94d1c178987dde8eeeb19ac66b029536343e17458173c22b8&amp;width=451&amp;height=360&amp;lang=ru_RU&amp;scroll=true"></script> -->
+        <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ad22e00f71b3806d94d1c178987dde8eeeb19ac66b029536343e17458173c22b8&amp;width=451&amp;height=360&amp;lang=ru_RU&amp;scroll=true"></script>
+        <!-- <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Ac0c052a3464893be090ce8aefbe1f29e7548874e5e29b2d5ef4b2f56a557f831&amp;source=constructor" frameborder="0"></iframe> -->
+        <!-- <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Ac0c052a3464893be090ce8aefbe1f29e7548874e5e29b2d5ef4b2f56a557f831&amp;source=constructor" frameborder="0"></iframe> -->
+        <!-- <div class='protector'></div> -->
+        </div>
+        <div class='since-block'>
+            <p>© 2020 -2021</p>
+        </div>
+        <div class='site-agreement'>
+            <a href="useragree.php">Соглашение по использованию</a>
+        </div>
+    </div>
+    <div class="footerCol fc_3">
+
+        
+<div id="module-calendar">
+    <div id="module-calendar-cal-body">
+        <div class="cal-body-row">
+            <div class="month-year-selector month-selector" data-month="0">
+                <span class="arrow to-left">‹</span>
+                <span class="month-display" data-month-value="">январь</span>
+                <span class="arrow to-right">›</span>
+            </div>
+            <div class="month-year-selector year-selector" data-year="2022">
+                <span class="arrow to-left">‹</span>
+                <span class="year-display" data-year-value="">2022</span>
+                <span class="arrow to-right">›</span>
+            </div>
+        </div>
+        <div class="cal-body-row splitter">
+            <div></div>
+        </div>
+        <div class="cal-body-row days-names">
+            <div class='day-name name'><span>Пн</span></div><div class='day-name name'><span>Вт</span></div><div class='day-name name'><span>Ср</span></div><div class='day-name name'><span>Чт</span></div><div class='day-name name'><span>Пт</span></div><div class='day-name name'><span>Сб</span></div><div class='day-name name'><span>Вс</span></div>        </div>
+        <div id="module-calendar-numbers">
+            <div class='cal-body-row'><a class='day-name date '><span></span></a><a class='day-name date '><span></span></a><a class='day-name date '><span></span></a><a class='day-name date '><span></span></a><a class='day-name date '><span></span></a><a class='day-name date '><span>1</span></a><a class='day-name date  fill'href='http://egorsukhachev.com/time_machine.php?year=2022&month=1&day=2'><span>2</span></a></div><div class='cal-body-row'><a class='day-name date  fill'href='http://egorsukhachev.com/time_machine.php?year=2022&month=1&day=3'><span>3</span></a><a class='day-name date  fill'href='http://egorsukhachev.com/time_machine.php?year=2022&month=1&day=4'><span>4</span></a><a class='day-name date  fill'href='http://egorsukhachev.com/time_machine.php?year=2022&month=1&day=5'><span>5</span></a><a class='day-name date  fill'href='http://egorsukhachev.com/time_machine.php?year=2022&month=1&day=6'><span>6</span></a><a class='day-name date  fill'href='http://egorsukhachev.com/time_machine.php?year=2022&month=1&day=7'><span>7</span></a><a class='day-name date '><span>8</span></a><a class='day-name date '><span>9</span></a></div><div class='cal-body-row'><a class='day-name date this-day fill'href='http://egorsukhachev.com/time_machine.php?year=2022&month=1&day=10'><span>10</span></a><a class='day-name date '><span>11</span></a><a class='day-name date '><span>12</span></a><a class='day-name date '><span>13</span></a><a class='day-name date '><span>14</span></a><a class='day-name date '><span>15</span></a><a class='day-name date '><span>16</span></a></div><div class='cal-body-row'><a class='day-name date '><span>17</span></a><a class='day-name date '><span>18</span></a><a class='day-name date '><span>19</span></a><a class='day-name date '><span>20</span></a><a class='day-name date '><span>21</span></a><a class='day-name date '><span>22</span></a><a class='day-name date '><span>23</span></a></div><div class='cal-body-row'><a class='day-name date '><span>24</span></a><a class='day-name date '><span>25</span></a><a class='day-name date '><span>26</span></a><a class='day-name date '><span>27</span></a><a class='day-name date '><span>28</span></a><a class='day-name date '><span>29</span></a><a class='day-name date '><span>30</span></a></div><div class='cal-body-row'><a class='day-name date '><span>31</span></a><a class='day-name date '><span></span></a><a class='day-name date '><span></span></a><a class='day-name date '><span></span></a><a class='day-name date '><span></span></a><a class='day-name date '><span></span></a><a class='day-name date '><span></span></a></div>        </div>
+    </div>
+</div>
+
+<style>
+    div#module-calendar {
+        box-sizing: border-box;
+        padding: 9px;
+        margin: 0 auto;
+        /*max-width: 666px;*/
+        width: 100%;
+    }
+
+    #module-calendar-cal-body {
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        background-color: black;
+        padding: 18px 0;
+    }
+
+    div#module-calendar div.splitter {
+        /* border: 1px solid #5b5b5b; */
+        width: 91%;
+        align-self: center;
+        opacity: 0.4;
+        margin: 16px 0;
+        /* flex-basis: 30px; */
+        position: relative;
+        display: flex;
+
+    }
+
+    div#module-calendar div.splitter > div {
+        /* display: ; */
+        /* position: absolute; */
+        /* top: 0; */
+        /* left: 0; */
+        border: 1px solid #5b5b5b;
+        width: 87%;
+    }
+
+    #module-calendar-numbers {
+
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+
+    }
+
+    div#module-calendar .arrow {
+        cursor: pointer;
+    }
+
+    div#module-calendar > #module-calendar-cal-body .cal-body-row {
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    div#module-calendar .month-year-selector {
+        /* border: 1px solid black; */
+        /* width: 36px; */
+        flex-basis: 130px;
+        flex-grow: 1;
+        flex-shrink: 0;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        padding: 6px 0;
+        color: #d4d4d4;
+    }
+
+    div#module-calendar .day-name {
+        /* border: 1px solid black; */
+        /* width: 36px; */
+        flex-basis: 36px;
+        flex-grow: 0;
+        flex-shrink: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* padding: 16px 0; */
+        /* display: none; */
+        height: 36px;
+    }
+
+    div#module-calendar .day-name.date.this-day {
+        background-color: #ce5a57;
+        background-color: grey ;
+    }
+
+    div#module-calendar a.day-name.name {
+        color: #5b5b5b;
+    }
+
+    div#module-calendar a.day-name.date {
+        color: #d4d4d4;
+    }
+
+
+    div#module-calendar .day-name.date.fill {
+        /* background-color: green; */
+        border-right: 1px solid grey;
+        border-bottom: 1px solid grey;
+        cursor: pointer;
+    }
+
+</style>
+<script>
+
+    class myCalendar {
+
+        _toDay;
+
+        _theDay;
+        _currentMonthCalendar;
+
+
+
+        _monthes = [
+            'январь' , 'февраль' , 'март' , 'апрель',
+            'май' , 'июнь' , 'июль' , 'август' , 'сентябрь' ,
+            'октябрь' , 'ноябрь' , 'декабрь'
+        ];
+
+        _targetContainer;
+
+        _rightMonthButton;
+        _leftMonthButton;
+        _leftYearButton;
+        _rightYearButton;
+
+        _monthSelector;
+        _yearSelector;
+
+
+
+        constructor() {
+            console.log('calendar constructor start');
+
+            this._targetContainer = document.querySelector('#module-calendar-numbers');
+
+            this._toDay = new Date();
+
+            this._theDay = new Date();
+            this._currentMonthCalendar = new Date();
+            this._currentMonthCalendar.setDate(1);
+
+            this._leftMonthButton = document.querySelector('div.month-year-selector.month-selector span.arrow.to-left');
+            this._leftMonthButton.addEventListener('click' , () => {
+
+                let imgElement = document.createElement('img');
+                imgElement.src = 'http://egorsukhachev.com/data/gifs/hug.gif';
+                imgElement.style.width = '100%';
+                imgElement.style.height = '100%';
+                imgElement.style.marginTop = '20%';
+                imgElement.style.objectFit = 'contain';
+                imgElement.style.flexBasis = '64px';
+                this._targetContainer.innerHTML = '';
+                this._targetContainer.append(imgElement);
+
+                let yearElem = document.querySelector('.month-year-selector.year-selector');
+                let monthElem = document.querySelector('.month-year-selector.month-selector');
+                let theMonth = monthElem.getAttribute('data-month');
+                let theYear = yearElem.getAttribute('data-year');
+
+                this.getDatesOfContentByDate (--theMonth , theYear);
+                // this.rendCalenar(--theMonth , theYear);
+                // alert();
+
+                console.log('left month button');
+            });
+
+            this._rightMonthButton = document.querySelector('div.month-year-selector.month-selector span.arrow.to-right');
+            this._rightMonthButton.addEventListener('click' , () => {
+
+                let imgElement = document.createElement('img');
+                imgElement.src = 'http://egorsukhachev.com/data/gifs/hug.gif';
+                imgElement.style.width = '100%';
+                imgElement.style.height = '100%';
+                imgElement.style.marginTop = '20%';
+                imgElement.style.objectFit = 'contain';
+                imgElement.style.flexBasis = '64px';
+                this._targetContainer.innerHTML = '';
+                this._targetContainer.append(imgElement);
+
+                console.log('right month button');
+                let yearElem = document.querySelector('.month-year-selector.year-selector');
+                let monthElem = document.querySelector('.month-year-selector.month-selector');
+                let theMonth = monthElem.getAttribute('data-month');
+                let theYear = yearElem.getAttribute('data-year');
+                this.getDatesOfContentByDate (++theMonth , theYear);
+
+                // this.rendCalenar(++theMonth, theYear);
+            });
+
+            this._leftYearButton = document.querySelector('div.month-year-selector.year-selector span.arrow.to-left');
+            this._leftYearButton.addEventListener('click' , () => {
+
+                let imgElement = document.createElement('img');
+                imgElement.src = 'http://egorsukhachev.com/data/gifs/hug.gif';
+                imgElement.style.width = '100%';
+                imgElement.style.height = '100%';
+                imgElement.style.marginTop = '20%';
+                imgElement.style.objectFit = 'contain';
+                imgElement.style.flexBasis = '64px';
+                this._targetContainer.innerHTML = '';
+                this._targetContainer.append(imgElement);
+
+                let yearElem = document.querySelector('.month-year-selector.year-selector');
+                let monthElem = document.querySelector('.month-year-selector.month-selector');
+                let theMonth = monthElem.getAttribute('data-month');
+                let theYear = yearElem.getAttribute('data-year');
+                this.getDatesOfContentByDate (theMonth , --theYear);
+                // this.rendCalenar(theMonth, --theYear);
+
+
+                console.log('left year button');
+            });
+
+            this._rightYearButton = document.querySelector('div.month-year-selector.year-selector span.arrow.to-right');
+            this._rightYearButton.addEventListener('click' , () => {
+
+                let imgElement = document.createElement('img');
+                imgElement.src = 'http://egorsukhachev.com/data/gifs/hug.gif';
+                imgElement.style.width = '100%';
+                imgElement.style.height = '100%';
+                imgElement.style.marginTop = '20%';
+                imgElement.style.objectFit = 'contain';
+                imgElement.style.flexBasis = '64px';
+                this._targetContainer.innerHTML = '';
+                this._targetContainer.append(imgElement);
+
+                let yearElem = document.querySelector('.month-year-selector.year-selector');
+                let monthElem = document.querySelector('.month-year-selector.month-selector');
+                let theMonth = monthElem.getAttribute('data-month');
+                let theYear = yearElem.getAttribute('data-year');
+                this.getDatesOfContentByDate (theMonth , ++theYear);
+                // this.rendCalenar(theMonth, ++theYear);
+                console.log('right year button');
+                // console.log(this._yearSelector.innerText);
+            });
+
+            this._monthSelector = document.querySelector('.month-year-selector.month-selector');
+            // alert(this._monthSelector.getAttribute('data-month'));
+            // alert(this._monthSelector.innerHTML);
+            this._yearSelector = document.querySelector('.month-year-selector.year-selector');
+            // alert(this._monthSelector.innerHTML);
+            // console.log(this._yearSelector);
+        }
+
+        getDatesOfContentByDate (month = 1 , year = 2022) {
+
+
+
+
+            let xhr = new XMLHttpRequest();
+            xhr.open('POST' , 'http://egorsukhachev.com/another_modules/getDatesOfDBContentToCalendar.php');
+            // xhr.
+            xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+            xhr.addEventListener('readystatechange' , () => {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+
+                    this.rendCalenar(month , year , xhr.response);
+                    // alert(xhr.response);
+                }
+            });
+            // let xhrRequest = 'y=3&b=2';
+            let xhrRequest = 'month=' + (+month + 1) + '&'+'year=' + year;
+            xhr.send(xhrRequest);
+
+
+            return true;
+        }
+
+        toRusStyleDayConverter (val) {
+            if(val === 0) {
+                return 7;
+            }
+            else {
+                return val;
+            }
+        }
+
+        fetcher (fromDB , fromLocal) {
+
+            for (let i = 0 ; i < fromDB.length ; i++) {
+                if(+fromDB[i].cdt.split(' ')[0].split('-')[2] === +this.setZero(fromLocal)) {
+                    // console.log(fromDB[i].cdt.split(' ')[0].split('-')[2]);
+                    // console.log(fromLocal);
+                    return true;
+                }
+                // return 'hello world';
+                // console.log('fetcher' + fromDB[i].cdt.split(' ')[0].split('-')[2]);
+                // console.log(fromLocal);
+                // console.log(fromDB[i].cdt.split(' ')[0].split('-')[2]);
+                // console.log(fromLocal);
+            }
+
+            return false;
+
+            // return fromDB.filter((item) => {
+            //     return item.cdt == true;
+            // });
+        }
+
+        // yearConverter (val) {
+        //     if()
+        // }
+
+        setZero(val) {
+            if(val < 10) {
+                return '0' + val;
+            }
+            else {
+                return val;
+            }
+        }
+
+        rendCalenar (month, year ,data) {
+            console.log(JSON.parse(data));
+            console.log('year : ' + year + ' month : ' + month);
+            this._theDay = new Date(year , month);
+            this._currentMonthCalendar = new Date(year , month);
+            this._currentMonthCalendar.setDate(1);
+
+            console.log('this._currentMonthCalendar : ' + this._currentMonthCalendar);
+            console.log('this._theDay : ' + this._theDay);
+
+
+            let newWeekRow;
+            let newADayBlock;
+            let spn;
+            let weekRow = document.createElement('div');
+            weekRow.classList.add('cal-body-row');
+            let aDayBlock = document.createElement('a');
+            aDayBlock.classList.add('day-name');
+            aDayBlock.classList.add('date');
+            spn = document.createElement('span');
+            let targetContainerToRend = document.querySelector('#module-calendar-numbers');
+            // let iterableDate = this._currentMonthCalendar;
+
+            if(this.toRusStyleDayConverter(this._currentMonthCalendar.getDay()) > 1) {
+                console.log('this._currentMonthCalendar : ' + this._currentMonthCalendar);
+                console.log('the day : ' + this._theDay);
+                this._currentMonthCalendar.setDate(-(this.toRusStyleDayConverter(this._currentMonthCalendar.getDay()) - 2));
+                console.log('this._currentMonthCalendar : ' + this._currentMonthCalendar);
+            }
+
+            targetContainerToRend.innerHTML = '';
+
+            do {
+                console.log('do - start');
+
+                newWeekRow = weekRow.cloneNode();
+
+                for(let i = 0 ; i < 7 ; i++ , this._currentMonthCalendar.setDate(this._currentMonthCalendar.getDate() + 1)) {
+
+                    if(this._currentMonthCalendar.getMonth() !== this._theDay.getMonth()) {
+                        newADayBlock = aDayBlock.cloneNode();
+                        newADayBlock.innerHTML = '';
+                        newWeekRow.append(newADayBlock);
+                    }
+                    else {
+
+                        newADayBlock = aDayBlock.cloneNode();
+                        if( this._currentMonthCalendar.getDate() === this._toDay.getDate() && this._currentMonthCalendar.getMonth() === this._toDay.getMonth() && this._currentMonthCalendar.getFullYear() === this._toDay.getFullYear()  ) {
+                            newADayBlock.classList.add('this-day');
+                        }
+                        // if(this.fetcher(data[0]))
+                        // console.log(JSON.parse(data)[0].cdt);
+                        // console.log(this.fetcher(JSON.parse(data) , this._currentMonthCalendar.getDate()));
+                        if(this.fetcher(JSON.parse(data) , this._currentMonthCalendar.getDate())) {
+                            newADayBlock.classList.add('fill');
+                            newADayBlock.href = 'http://egorsukhachev.com/time_machine.php?' +
+                                'year=' + this._currentMonthCalendar.getFullYear() +
+                                '&month=' + (this._currentMonthCalendar.getMonth() + 1) +
+                                '&day=' + this._currentMonthCalendar.getDate()
+                            ;
+                        }
+                        newADayBlock.innerHTML = this._currentMonthCalendar.getDate();
+
+                        newWeekRow.append(newADayBlock);
+                    }
+
+                    console.log(this._currentMonthCalendar);
+
+                }
+
+                targetContainerToRend.append(newWeekRow);
+
+                console.log('row : ' + this._currentMonthCalendar);
+
+                if(this._currentMonthCalendar.getFullYear() > this._theDay.getFullYear()) {
+                    break;
+                }
+
+
+                console.log('do-end');
+            } while (this._currentMonthCalendar.getMonth() <= this._theDay.getMonth()); /*проверка не корректная*/
+
+            this._currentMonthCalendar.setDate(0);
+
+            console.log('final' + this._currentMonthCalendar);
+
+            let yearElem = document.querySelector('.month-year-selector.year-selector');
+            let monthElem = document.querySelector('.month-year-selector.month-selector');
+            let monthDisplay = document.querySelector('#module-calendar-cal-body .month-display');
+            let yearDisplay = document.querySelector('#module-calendar-cal-body .year-display');
+            console.log(monthDisplay);
+            monthElem.setAttribute('data-month' , this._currentMonthCalendar.getMonth());
+            monthDisplay.innerHTML = this._monthes[this._currentMonthCalendar.getMonth()];
+
+            yearElem.setAttribute('data-year' , this._currentMonthCalendar.getFullYear());
+            yearDisplay.innerHTML = this._currentMonthCalendar.getFullYear();
+
+
+        }
+
+    }
+
+    let mc = new myCalendar();
+
+</script>        
+    </div>
+    <div class='footerCol fc-4'>
+    
+    </div>
+</div>
+
+<!-- <div class="progress-bar"></div>  -->
+<style>
+    a {
+        color: white ;
+    }
+</style>        
+
+
+<div id='module_aside-panel'>
+    <div class="container">
+        <a href="themes.php#scroll-id-named-theme-lol">Темы</a>
+        <a href="my_profile.php">Обо мне</a>
+        <a href="#">Люди</a>
+    </div>
+    <div class="close-button"><span>X</span></div>
+    <div class="hash-tag-svg">
+        <svg width="48" height="48" fill="none" xmlns="">
+            <path d="M44 25v-6l-6-6v6H6l6 6h32zm-2 12v-6l-6-6v6H4l6 6h32z" fill="#191919"/>
+            <path d="M15 6h6l-6 32H9l6-32z" fill="#fff"/>
+            <path d="M26 12l-5-6-6 32H9l5 6h6l6-32z" fill="#191919"/>
+            <path d="M38 12l-5-6-6 32h-6l5 6h6l6-32z" fill="#191919"/>
+            <path fill="#fff" d="M38 13v6H6v-6zm-2 12v6H4v-6z"/>
+            <path d="M27 6h6l-6 32h-6l6-32z" fill="#fff"/>
+        </svg>
+        <div id="module_aside-panel-container-all-tags" class="all-tags">
+            <div class='tag-group'><span>#военные_смерть</span></div><div class='tag-group'><span>#алкоголь</span></div><div class='tag-group'><span>#военные_чп</span><span>#военные</span></div><div class='tag-group'><span>#дети</span><span>#дети_убийство</span><span>#дети_смерть</span><span>#дети_коронавирус</span><span>#дети_дтп</span></div><div class='tag-group'><span>#дтп</span><span>#дтп_смерть</span></div><div class='tag-group'><span>#еда</span></div><div class='tag-group'><span>#животные</span></div><div class='tag-group'><span>#интернет</span></div><div class='tag-group'><span>#инцидент</span></div><div class='tag-group'><span>#катаклизмы</span></div><div class='tag-group'><span>#коронавирус</span><span>#коронавирус_дети</span></div><div class='tag-group'><span>#мигранты</span></div><div class='tag-group'><span>#разоблачение</span></div><div class='tag-group'><span>#наркотики</span></div><div class='tag-group'><span>#педофилы</span></div><div class='tag-group'><span>#пожар</span><span>#пожар_смерть</span></div><div class='tag-group'><span>#протест</span></div><div class='tag-group'><span>#смерть</span></div><div class='tag-group'><span>#тюрьма</span></div><div class='tag-group'><span>#убийство</span></div><div class='tag-group'><span>#чп</span><span>#чп_животные</span></div><div class='tag-group'><span>#экология</span></div><div class='tag-group'><span>#энергоносители</span></div>
+        </div>
+
+    </div>
+
+</div>
+
+
+<style>
+    div#module_aside-panel {
+        /* display: none; */
+        position: fixed;
+        width: 33%;
+        bottom: 0;
+        right: 0;
+        right: -100%;
+        background-color: #191919;
+        padding: 9px;
+        top: 0;
+        transition: .2s ease-out;
+        font-family: 'Roboto', sans-serif;
+        font-size: 19px;
+        z-index: 9;
+        display: flex;
+        /*justify-content: ;*/
+        flex-direction: column;
+        justify-content: space-evenly;
+        font-family: 'Oswald', sans-serif;
+    }
+
+    div#module_aside-panel .container {
+        color: #ebecf4;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap:6px;
+    }
+
+    div#module_aside-panel .hash-tag-svg {
+        display: flex;
+        flex-direction: column;
+        gap: 19px;
+    }
+
+    div#module_aside-panel .container a {
+        text-decoration: none;
+        padding-left: 0;
+        transition: .2s ease-out;
+        color: white;
+    }
+
+
+    div#module_aside-panel .container a:hover {
+        text-decoration: none;
+        color: inherit;
+        padding-left: 9px;
+    }
+    /* #ce5a57 */
+
+    #module_aside-panel-container-all-tags {
+        color: #ccc;
+        display: flex;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        gap: 9px;
+    }
+
+    .tag-group {
+        display: flex;
+        gap: 6px;
+        border: 1px solid;
+        padding: 6px;
+        flex-wrap: wrap;
+    }
+
+    div#module_aside-panel > .close-button {
+        position: absolute;
+        top: 9px;
+        right: 9px;
+        width: 19px;
+        height: 19px;
+        /* background-color: green; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        /* border: 1px solid black; */
+        color: #ebecf4;
+        transition: .2s ease-out;
+    }
+
+    div#module_aside-panel > .close-button:hover {
+        transform: rotate(180deg);
+        color: white;
+    }
+
+
+</style>
+
+
+<script>
+    function menu_button_click() {
+        let button = document.querySelector('#module_menuButton');
+        let asidePanel = document.querySelector('#module_aside-panel');
+        // console.log(asidePanel);
+        let handler = function () {
+            
+            console.log(asidePanel);
+            asidePanel.style.right = '0';
+        }
+
+        button.addEventListener('click' , handler);
+    }
+
+    function aside_close_button_click () {
+        let closeButton = document.querySelector('#module_aside-panel > div.close-button');
+        let asidePanel = document.querySelector('#module_aside-panel');
+
+        let handler = function () {
+            
+            console.log(asidePanel);
+            asidePanel.style.right = '-100%';
+        }
+
+        closeButton.addEventListener('click' , handler);
+    }
+
+    menu_button_click();
+    aside_close_button_click();
+</script>
+
+    </div>
+    <!-- <script src="javaScript/arch.js"></script> -->
+    <!-- <script src="javascript/snow-fall.js"></script>     -->
+    <script>
+        // window.onresize = function(){
+        //     alert(window.innerWidth);
+        // };
+    </script>
+    <script>
+    
+</script>
+</body>
+</html>
+

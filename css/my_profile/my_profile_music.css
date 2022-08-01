@@ -1,0 +1,68 @@
+/* #musician-module {
+
+} */
+
+#musician-module .musician-item {
+	display: flex;
+	/* flex: ; */
+	width: 57%;
+	margin: 0 auto 19px auto;
+	/* background-color: #ddd; */
+	box-shadow: 1px 1px 3px black;
+}
+
+#musician-module .left-column {
+	flex: 361px 0 0;
+	/* width: 10%; */
+	/* height: 100%; */
+}
+
+#musician-module .img-container {
+	width: 100%;
+	height: 100%;
+}
+
+
+#musician-module .img-container img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+/* ***************** */
+
+#musician-module .right-column {
+	padding: 0 0 0 9px;
+	font-size: 19px;
+}
+
+#musician-module .fio-container {
+	font-size: 1.5em;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+}
+
+#musician-module .about-container {
+	margin: 19px 0;
+	font-family: 'Playfair Display', serif;
+}
+
+#musician-module .born-container {
+	margin: 0;
+	font-family: 'Playfair Display', serif;
+
+}
+
+#musician-module .music-container {
+	font-family: 'Playfair Display', serif;
+}
+
+#musician-module a:hover {
+	color: black ;
+}
+
+
+/* font-family: 'Playfair Display', serif;  */
+/* #musician-module  */
+/* #musician-module  */
+/* #musician-module  */

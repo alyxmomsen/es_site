@@ -1,0 +1,303 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+
+
+
+
+
+
+div.main-head {
+    padding-left: 19px;
+    padding-right: 19px;
+    background-color: black;
+    padding-bottom: 19px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+}
+
+
+* {
+    /*display: none;*/
+    box-sizing: border-box;
+}
+
+div.header {
+    justify-items: start;
+    width: 100%;
+    /* height: 219px; */
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* padding: 19px 0; */
+    padding-top: 19px;
+    padding-bottom: 0;
+    gap: 9px;
+    /* font-family: font-family: 'Oswald', sans-serif; */
+    align-items: start;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+div.description {
+    background-color: transparent;
+    /*border: 1px solid whitesmoke;*/
+    display: flex;
+    justify-content: center;
+    padding-right: 0px;
+    flex-basis: 25%;
+    /* margin: 0; */
+}
+
+div.description > p.description.ru {
+    color: whitesmoke;
+    /* border: 1px solid; */
+    font-size: 1em;
+    text-align: justify;
+    /* font-family: "Stalinist One"; */
+    /* font-family: 'Pattaya', sans-serif; */
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+}
+
+div.description > p.description.eng {
+    color: grey;
+    padding-top: 0;
+    margin-top: 0;
+    padding-right: 66px;
+    /*border: 1px solid;*/
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+
+
+
+
+/******  *******                    **************  ******            *******/
+div.brand-name-letters.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: "Stalinist One";
+    background-color: transparent;
+    align-items: center;
+    margin: 0 0 9px 0;
+}
+
+span.flex-item.letter {
+    font-size: 83px;
+    color: rgb(245, 245, 245);
+    text-shadow: 1px 1px 19px rgb(245, 245, 245);
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+span.flex-item.letter.logo {
+    background-color: transparent;
+    /* ': 0; */
+    animation-name: apearing , rotate;
+    animation-duration: 1s , 1s;
+    animation-delay: .6s , .6s;
+    animation-fill-mode: forwards , forwards;
+}
+
+span.flex-item.letter.logo > a {
+    width: 179px;
+    display: block;
+    height: 145px;
+    background-color: transparent;
+    background-image: url('../data/img/icons/Untitled-3.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+}
+
+div.link-to-themes {
+    display: flex;
+    justify-content: center;
+    gap: 19px;
+}
+
+div.link-to-themes > div.flex-item.container {
+    --width: 99px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width:var(--width);
+    /* height: var(--width); */
+    height: auto;
+    background-color: #ce5a57;
+    transition: background-color .1s linear;
+    /* display: none; */
+    /* visibility: hidden; */
+    box-shadow: 0 0 9px#ce5a57;
+    border-radius: 6%;
+}
+
+div.link-to-themes a {
+    color: whitesmoke;
+    text-align: center;
+    padding: 4px 0;
+    margin: 0;
+    font-size: 1.6em;
+    font-family: 'Old Standard TT', serif;
+    width: 100%;
+}
+
+div.covid-stats-display {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: flex-start;
+}
+
+div.covid-stats-display > span.main-caption {
+    margin: 0;
+    padding: 0;
+    color: #ce5a57;
+    font-size: 1.4em;
+}
+
+div.covid-stats-display > div.stat {
+    /* display: flex; */
+    justify-content: flex-start;
+    align-items: center;
+    gap: 9px;
+}
+
+div.covid-stats-display > div.stat.infected {
+    color: #ce5a57;
+    font-size: 1.4em;
+}
+
+div.covid-stats-display > div.stat.cure {
+    color: #ce5a57;
+    font-size: 1.4em;
+}
+
+div.covid-stats-display > div.stat {
+    color:#ce5a57;
+    font-size: 1.4em;
+}
+
+div.covid-stats-display > div.stat > span.data {
+    color: whitesmoke;
+}
+
+div.covid-stats-display > div.stat.link-to-source {
+    color: grey;
+}
+
+/********/
+
+div.weather {
+    color: white;
+    font-size: 1.4em;
+}
+
+div.weather > span.caption {
+    color: whitesmoke;
+}
+
+div.weather > span.data {
+    color: whitesmoke;
+}
+
+div.weather a {
+    color: white;
+    /*font-size: 1.4em;*/
+
+}
+
+
+/* currence */
+
+div.currence-rate {
+    color: whitesmoke;
+    font-size: 1.4em;
+}
+
+div.currence-rate > div > span.the-currence {
+    color: white;
+}
+
+div.currence-rate > div > span.sale {
+    color: whitesmoke;
+}
+
+div.currence-rate > div > span.buy {
+    color: whitesmoke;
+}
+
+div.currence-rate > div > a:hover {
+    color: whitesmoke;
+}
+
+div.currence-rate > div > span.separator {
+    color: whitesmoke ;
+}
+
+@keyframes rotate {
+    from {
+        transform: scale(-1);
+        transform: rotate(-180deg);
+    }
+
+    to {
+        transform: scale(1);
+        transform: rotate(0deg);
+    }
+}
+
+@keyframes blink {
+    from {
+        text-shadow: 1px 1px 19px whitesmoke;
+    }
+
+    to {
+        text-shadow: 1px 1px 0 whitesmoke;
+    }
+}
+
+
+@keyframes apearing {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+
+
+div.covid-stats-display > div.stat.link-to-source {
+    color: white;
+}
+
+
+#mainheader .covid-stats-link {
+    color: whitesmoke;
+    font-size: 22px;
+}
+
+/* unsorted */
+
+
+
+.icon-inner-container {
+	width: 36px;
+}
+
+.icon-inner-container svg path {
+    fill: white ;
+}
+
+

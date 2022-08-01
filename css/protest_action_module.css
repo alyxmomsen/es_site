@@ -1,0 +1,68 @@
+div.protest-actions-flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    /* border: 2px solid black; */
+    /* background-color: green; */
+    gap: 9px;
+
+}
+
+div.protest-actions-flex-item {
+    flex-basis: 25%;
+    flex-grow: 1;
+    flex-shrink: 16;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    align-items: stretch;
+    /* border: 2px solid grey; */
+    position: relative;
+    transition: all .2s ease-in-out;
+    overflow: hidden;
+    height: 400px;
+}
+
+div.protest-actions-flex-item:hover {
+    /* transform: scale(1.2); */
+    z-index: 1;
+    flex-grow: 40;
+
+    /* border:9px solid whitesmoke; */
+}
+
+div.protest-actions-flex-item:hover > div.protest_action_description 
+{
+    bottom: -100%;
+}
+
+div.protest-actions-flex-item > a {
+    display: block;
+    height:100%;
+}
+
+div.protest-actions-flex-item > a > img {
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+
+div.protest-actions-flex-item > div.protest_action_description {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    transition: all .2s ease-in-out .25s;
+}
+
+div.protest-actions-flex-item > div.protest_action_description > p {
+    background-color: #9999;
+    color: #ddd;
+    text-shadow: 1px 1px 1px black;
+    padding: 9px;
+    margin: 0;
+}
